@@ -11,3 +11,15 @@
 ## Labeling tools
 
 A good list of annotation tools is [here](https://github.com/heartexlabs/awesome-data-labeling).
+
+
+## Citation Policy
+
+If you would like to cite this repository, please use the this BibTex
+
+```
+ @article{Moura2020, 
+          title={h3dema/awesome-player-detection-dataset}, 
+          abstractNote={A collection of tools and datasets for player detector.}, 
+          publisher={GitHub}, author={Henrique Moura}, year={2020}, month={Nov}}
+```
